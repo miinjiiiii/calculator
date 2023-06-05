@@ -120,7 +120,7 @@ public class Calculator2 extends JFrame {
 		for (String s : equation) {
 			if (s.equals("+")) {
 				mode = "add";
-			} else if (s.equals("×")) {
+			} else if (s.equals("-")) {
 				mode = "sub";
 			}  
 			else if (s.equals("×")) {
